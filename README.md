@@ -1,4 +1,3 @@
-[![MasterHead](https://78.media.tumblr.com/aa2ad65e21ad1c5dc386c3c7fa172db3/tumblr_old81jgcjH1veydt5o1_500.gif)]
 <h1 align="center">Hello 👋, I'm Tanuj Karteek Allena</h1>
 <h3 align="center">A fresher with Majors in CSY</h3>
 
