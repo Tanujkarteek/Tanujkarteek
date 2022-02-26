@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" src="https://media.giphy.com/media/BqLlUZ37CtV0eRe6OY/giphy.gif">
+
 <h1 align="center">Hello 👋, I'm Tanuj Karteek Allena</h1>
 <h3 align="center">A fresher with Majors in CSY</h3>
 
