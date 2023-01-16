@@ -2,7 +2,7 @@
 <h1 align="center">Hello 👋, I'm Tanuj Karteek Allena</h1>
 <h3 align="center">A fresher with Majors in CSY</h3>
 
-- 🔭 I’m currently working on [BOSS (Open Source College Project)](https://www.boss-iiitk.co/)
+- 🔭 I’m currently working on College **Python Project**
 
 - 🌱 I’m currently learning **Javascript and React.js**
 
