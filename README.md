@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on College **Python Project**
 
-- 🌱 I’m currently learning **FLutter** and **MongoDB**
+- 🌱 I’m currently learning **Flutter** and **MongoDB**
 
 - 📫 How to reach me **tanujkarteekallena@gmail.com**
 
