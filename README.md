@@ -1,6 +1,6 @@
 
 <h1 align="center">Hello 👋, I'm Tanuj Karteek Allena</h1>
-<h3 align="center">A fresher with Majors in CSY</h3>
+<h3 align="center">A Senior with Majors in CSY</h3>
 
 - 🔭 I’m currently working on College **Python Project**
 
