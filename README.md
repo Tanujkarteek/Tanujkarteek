@@ -2,14 +2,11 @@
 <h1 align="center">Hello 👋, I'm Tanuj Karteek Allena</h1>
 <h3 align="center">A Senior with Majors in CSY</h3>
 
-- 🔭 I’m currently working on College **Python Project**
-
-- 🌱 I’m currently learning **Flutter** and **MongoDB**
-
+- 🔭 I’m currently working as a Flutter Developer Intern [**@Stimuler**](https://github.com/stimuler)
+- 
 - 📫 How to reach me **tanujkarteekallena@gmail.com**
 
 - ⚡ Fun fact **I am passionate about CODING**
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
