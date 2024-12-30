@@ -3,7 +3,7 @@
 <h3 align="center">A Senior with Majors in CSY</h3>
 
 - 🔭 I’m currently working as a Flutter Developer Intern [**@Stimuler**](https://github.com/stimuler)
-- 
+  
 - 📫 How to reach me **tanujkarteekallena@gmail.com**
 
 - ⚡ Fun fact **I am passionate about CODING**
